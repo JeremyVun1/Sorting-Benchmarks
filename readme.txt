@@ -1,4 +1,6 @@
-Sortingtest <vector size> <runs>
+cmd line
+
+./Sortingtest <vector size> <runs>
 
 defaults:
 size = 10000
